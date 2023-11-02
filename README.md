@@ -1,2 +1,20 @@
 # loja-virtual-back
-API para uma loja virtual em node
+API to the virtual store
+
+# run the command to iniciate aplication
+
+Install dependencies
+```bash
+  npm install
+```
+
+Start the aplication
+```bash
+  npm start
+```
+
+## .env 
+
+environment variables to your .env
+
+`API_KEY`
