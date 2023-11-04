@@ -18,3 +18,7 @@ Start the aplication
 environment variables to your .env
 
 `API_KEY`
+
+## Stack
+
+**Back-end:** Node, Fastify
